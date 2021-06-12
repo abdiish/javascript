@@ -13,7 +13,7 @@ console.log(typeof 'Alan')
 //Boolean - False o True(palabras reservadas)
 console.log(typeof true)
 
-//Null - Tiene un valor de 'no valor'
+//Null - Tiene un valor de 'no valor', el valor no existe
 console.log(typeof null)
 
 //Symbol -- Nuevo en ECMAScript 2015
