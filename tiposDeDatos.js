@@ -13,13 +13,12 @@ console.log(typeof 'Alan')
 //Boolean - False o True(palabras reservadas)
 console.log(typeof true)
 
-//Function
-console.log(typeof function() {})
+//Null - Tiene un valor de 'no valor'
+console.log(typeof null)
 
-//Object
-console.log(typeof {a:1})
+//Symbol -- Nuevo en ECMAScript 2015
 
-//Undefined
+//Undefined - Variable a la que no se le ha asignado un valor
 console.log(typeof undefined)
 
 
